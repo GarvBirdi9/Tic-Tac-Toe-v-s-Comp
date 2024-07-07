@@ -1,0 +1,22 @@
+html {
+  background-color: #adadad;
+}
+
+h1 {
+  text-align: center;
+  font-family: "Poppins";
+}
+
+table {
+  margin: auto;
+  margin-top: 25px;
+}
+
+button{
+    height: 100px;
+    width: 100px;
+    cursor: pointer;
+    font-size: 40px;
+    color: red;
+}
+
